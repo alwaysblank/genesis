@@ -16,3 +16,4 @@ Set up a new machine
 8. Install lsd
 9. Install fd
 10. Install ripgrep
+11. Set up gpg keys https://www.keybits.net/post/import-keybase-private-key/

@@ -11,5 +11,8 @@ Set up a new machine
   1. Set latest ruby as system ruby
 4. Install PHP >= 7.2
 5. Install Composer
-
-???
+6. Install Rust
+7. Install starship
+8. Install lsd
+9. Install fd
+10. Install ripgrep

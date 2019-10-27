@@ -119,7 +119,8 @@ if [ ! $(which rustup) ]; then
 	sudo apt -y install pkg-config
 
 	# Run the installer w/o prompts
-	curl https://sh.rustup.rs -sSf | sh -y
+	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
 fi
 echo '✔  Done with rust!'
 
